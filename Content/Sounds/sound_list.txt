@@ -1,0 +1,10 @@
+cutscene: Cutscene audio
+fix: fixing an object
+gameover: music for game over screen
+hurt: when a robot shoots themself
+level1-3: level music
+levelcomplete: level completion music
+shoot: shooting the gun
+timeup: clock runs out
+title: title screen music
+warp: activating time travel or landing, whatever
